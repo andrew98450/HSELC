@@ -1,0 +1,30 @@
+C:\Users\Anony\Desktop\HCELC\HCELC\obj\Debug\HCELC.vbproj.GenerateResource.Cache
+C:\Users\Anony\Desktop\HCELC\HCELC\bin\Debug\HSELC.exe.config
+C:\Users\Anony\Desktop\HCELC\HCELC\bin\Debug\HSELC.exe
+C:\Users\Anony\Desktop\HCELC\HCELC\bin\Debug\HSELC.pdb
+C:\Users\Anony\Desktop\HCELC\HCELC\bin\Debug\HSELC.xml
+C:\Users\Anony\Desktop\HCELC\HCELC\obj\Debug\HSELC.Form1.resources
+C:\Users\Anony\Desktop\HCELC\HCELC\obj\Debug\HSELC.Resources.resources
+C:\Users\Anony\Desktop\HCELC\HCELC\obj\Debug\HSELC.exe
+C:\Users\Anony\Desktop\HCELC\HCELC\obj\Debug\HSELC.xml
+C:\Users\Anony\Desktop\HCELC\HCELC\obj\Debug\HSELC.pdb
+C:\Users\Anony\Desktop\HSELC\HCELC\bin\Debug\HSELC.exe.config
+C:\Users\Anony\Desktop\HSELC\HCELC\obj\Debug\HSELC.exe
+C:\Users\Anony\Desktop\HSELC\HCELC\obj\Debug\HSELC.xml
+C:\Users\Anony\Desktop\HSELC\HCELC\obj\Debug\HSELC.pdb
+C:\Users\Anony\Desktop\HSELC\HCELC\bin\Debug\HSELC.exe
+C:\Users\Anony\Desktop\HSELC\HCELC\bin\Debug\HSELC.pdb
+C:\Users\Anony\Desktop\HSELC\HCELC\bin\Debug\HSELC.xml
+C:\Users\Anony\Desktop\HSELC\HCELC\obj\Debug\HSELC.Form1.resources
+C:\Users\Anony\Desktop\HSELC\HCELC\obj\Debug\HSELC.Resources.resources
+C:\Users\Anony\Desktop\HSELC\HCELC\obj\Debug\HCELC.vbproj.GenerateResource.Cache
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\bin\Debug\HSELC.exe.config
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\obj\Debug\HSELC.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\obj\Debug\HSELC.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\obj\Debug\HSELC.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\bin\Debug\HSELC.exe
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\bin\Debug\HSELC.pdb
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\bin\Debug\HSELC.xml
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\obj\Debug\HSELC.Form1.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\obj\Debug\HSELC.Resources.resources
+C:\Users\Anony\Documents\Visual Studio 2013\Projects\HSELC\HCELC\obj\Debug\HCELC.vbproj.GenerateResource.Cache
